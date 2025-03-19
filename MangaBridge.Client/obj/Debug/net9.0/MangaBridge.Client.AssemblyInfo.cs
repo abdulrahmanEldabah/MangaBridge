@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MangaBridge.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45d5a8eba0d80bf563d4f9183a43cfd89fb40efd")]
 [assembly: System.Reflection.AssemblyProductAttribute("MangaBridge.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MangaBridge.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

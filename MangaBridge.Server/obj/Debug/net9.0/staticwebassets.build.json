@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qyuXOS82yi8JHHscOSgKng4mT7KYHV+QwIMkdw29aq4=",
+  "Source": "MangaBridge.Server",
+  "BasePath": "_content/MangaBridge.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "MangaBridge.Server\\MangaBridge.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MangaBridge.Client\\MangaBridge.Client.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
